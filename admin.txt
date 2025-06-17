@@ -1,2 +1,3 @@
 admin powers
 controlling the database
+adding password
