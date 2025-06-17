@@ -1,5 +1,5 @@
 admin powers
 controlling the database
-adding everone's password
+adding user password
 hello how are you
 
